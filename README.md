@@ -1,10 +1,3 @@
-
-
-Conversations
-2.23 GB of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 14 minutes ago
-Details
 # **MIST4610 Project 1 - Group 7**
 
 # **Team Members:**
