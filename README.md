@@ -1,3 +1,10 @@
+
+
+Conversations
+2.23 GB of 15 GB used
+Terms · Privacy · Program Policies
+Last account activity: 14 minutes ago
+Details
 # **MIST4610 Project 1 - Group 7**
 
 # **Team Members:**
@@ -133,5 +140,3 @@ Query 10 allows managment to strategize ahead of time of what coaches they need 
 Name of database: ns_Sp24_21484_Group7
 
 Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: CALL TP_Q1();
-
-
